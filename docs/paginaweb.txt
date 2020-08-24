@@ -1,0 +1,16 @@
+Páginas
+
+Inicio
+Blog
+Cursos Online
+Terapias
+Artículos Relacionados
+Proyectos
+Galería
+Nosotros
+Contacto
+Suscribete
+
+Fondo: #E1E1E1
+Color primario# ADF5FF
+Secundario # 0075A2
